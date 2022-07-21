@@ -1,6 +1,6 @@
 .banner{
-    background-image: url("../img/banner.webp");
-    padding: 15% 30% 15% 8%;
+    background-image: url("../img/fondo.jpg");
+    padding: 05% 10% 30% 5%;
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -23,5 +23,4 @@
     font-family: 'Delius', cursive;
     font-family: 'Just Another Hand', cursive;
     font-family: 'Kalam', cursive;
-    color:white;
-}
+    
